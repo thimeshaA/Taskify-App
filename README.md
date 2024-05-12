@@ -1,2 +1,1 @@
-# ToDoListApp
-MAD Project to build a mobile app using Kotlin
+Introducing Taskify, the ultimate task management solution designed to streamline your productivity. With Taskify, effortlessly create, track, and prioritize your tasks with precision and ease. Our intuitive interface allows you to customize task cards, update, delete, or mark tasks as complete seamlessly. Utilize the smart search feature to find specific tasks instantly, and manage priorities effectively by assigning importance levels. Say goodbye to chaos and hello to productivity—download Taskify now and conquer your tasks with confidence.
